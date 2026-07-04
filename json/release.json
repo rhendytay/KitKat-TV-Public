@@ -1,0 +1,11 @@
+{
+  "versionCode": 102,
+  "versionName": "1.0.1",
+  "changelog": [
+    "Menambahkan fitur Auto-Update",
+    "Menambahkan fitur Changelog (Apa yang Baru)",
+    "Perbaikan bug force close pada channel DRM",
+    "Optimasi penanganan link stream kosong"
+  ],
+  "downloadUrl": ""
+}
