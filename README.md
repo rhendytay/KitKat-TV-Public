@@ -46,9 +46,9 @@ Proyek ini dikembangkan dan didukung oleh:
 
 ---
 
-## ⚠️ Penyangkalan (Disclaimer)
+## ⚠️ Disclaimer
 - **KitKat TV** adalah aplikasi **IPTV Player**. Seluruh **saluran TV** atau **playlist M3U** yang tersedia di dalam aplikasi ini merupakan konten dari pihak **ketiga/komunitas**.
-- Pengguna harus menyediakan sumber konten mereka sendiri (file M3U atau JSON).
+- Pengguna bisa menggunakan sumber konten mereka sendiri (file M3U atau JSON).
 - Kami tidak bertanggung jawab atas konten yang diputar melalui aplikasi ini.
 - Gunakan aplikasi ini dengan bijak dan sesuai dengan hukum yang berlaku di wilayah Anda.
 
