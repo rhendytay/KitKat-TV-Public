@@ -1,11 +1,16 @@
 {
   "versionCode": 101,
-  "versionName": "1.0.1",
+  "versionName": "1.0.2",
   "changelog": [
-    "Menambahkan fitur Auto-Update",
-    "Menambahkan fitur Changelog (Apa yang Baru)",
-    "Perbaikan bug force close pada channel DRM",
-    "Optimasi penanganan link stream kosong"
+    "Menambahkan fitur EPG (Panduan Program TV)",
+    "Menampilkan judul acara yang sedang tayang di setiap channel",
+    "Menambahkan badge LIVE di channel dan player",
+    "Menambahkan nomor channel kustom (tvg-chno)",
+    "Menambahkan fast forward/rewind dengan double tap (VOD)",
+    "Memperbaiki teks EPG yang tidak bergerak",
+    "Memperbaiki ukuran info panel di player",
+    "Memperbaiki filter pencarian channel",
+    "Perbaikan bug dan optimasi performa"
   ],
   "downloadUrl": ""
 }
