@@ -7,7 +7,7 @@ Selamat datang di repositori distribusi resmi **KitKat TV**. Repositori ini digu
 - **Auto-Update**: Aplikasi akan memberitahu Anda secara otomatis jika ada versi terbaru.
 - **Custom Channel Number**: Mendukung input nomor saluran langsung dari remote (M3U `tvg-chno`).
 - **High Performance**: Menggunakan ExoPlayer versi terbaru untuk pemutaran stream yang stabil.
-- **Lightweight**: Tanpa iklan, tanpa pelacakan, dan sangat ringan.
+- **Lightweight**: Tanpa iklan dan sangat ringan.
 
 ---
 
